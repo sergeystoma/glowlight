@@ -7,7 +7,9 @@ Hardware
 ========
 
 1 x [Arduino Uno](http://arduino.cc/en/Main/ArduinoBoardUno) board
+
 1 x [ShiftBrite Shield](http://macetech.com/store/index.php?main_page=product_info&products_id=7)
+
 16 x [ShiftBrite LEDs](http://macetech.com/store/index.php?main_page=product_info&cPath=1&products_id=1)
 
 1 x laptop with a webcam
