@@ -3,6 +3,12 @@ What is it?
 
 GlowLight is an Arduino-based clone of Philips' Ambilight.
 
+Demo time:
+
+![Demo](http://i3.ytimg.com/vi/63lvGv4p_Qg/mqdefault.jpg)
+
+http://www.youtube.com/watch?v=63lvGv4p_Qg)
+
 Hardware
 ========
 
